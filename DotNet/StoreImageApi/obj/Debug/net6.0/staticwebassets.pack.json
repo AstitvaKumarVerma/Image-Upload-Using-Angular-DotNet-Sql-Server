@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153221_download1.jpg",
+      "PackagePath": "staticwebassets\\Images\\01092023153221_download1.jpg"
+    },
+    {
+      "Id": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153243_download2.jpg",
+      "PackagePath": "staticwebassets\\Images\\01092023153243_download2.jpg"
+    },
+    {
+      "Id": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153650_download3.jpg",
+      "PackagePath": "staticwebassets\\Images\\01092023153650_download3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StoreImageApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StoreImageApi.props",
+      "PackagePath": "build\\StoreImageApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StoreImageApi.props",
+      "PackagePath": "buildMultiTargeting\\StoreImageApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StoreImageApi.props",
+      "PackagePath": "buildTransitive\\StoreImageApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

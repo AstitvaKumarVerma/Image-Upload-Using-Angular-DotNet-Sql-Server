@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "9hDx/Q/Qxl/WdHR0koi2y3AENP1oGqx3DLDeK/D44Nc=",
+  "Source": "StoreImageApi",
+  "BasePath": "_content/StoreImageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StoreImageApi\\wwwroot",
+      "Source": "StoreImageApi",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\",
+      "BasePath": "_content/StoreImageApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153221_download1.jpg",
+      "SourceId": "StoreImageApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\",
+      "BasePath": "_content/StoreImageApi",
+      "RelativePath": "Images/01092023153221_download1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\01092023153221_download1.jpg"
+    },
+    {
+      "Identity": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153243_download2.jpg",
+      "SourceId": "StoreImageApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\",
+      "BasePath": "_content/StoreImageApi",
+      "RelativePath": "Images/01092023153243_download2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\01092023153243_download2.jpg"
+    },
+    {
+      "Identity": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\Images\\01092023153650_download3.jpg",
+      "SourceId": "StoreImageApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\30-August-2023\\DotNet\\StoreImageApi\\StoreImageApi\\wwwroot\\",
+      "BasePath": "_content/StoreImageApi",
+      "RelativePath": "Images/01092023153650_download3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\01092023153650_download3.jpg"
+    }
+  ]
+}
