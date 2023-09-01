@@ -6,7 +6,5 @@ CREATE TABLE StoreImages3008 (
 	IsDeleted bit Default 0
 );
 
-
-
 Select * from StoreImages3008
 
