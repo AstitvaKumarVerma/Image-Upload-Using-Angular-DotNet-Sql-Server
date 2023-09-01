@@ -2,4 +2,4 @@
 
 here, In this project I'm working on Angular v16 & DotNet Core v6.0  & MicroSoft SQL Server
 
-I'm uploading an image which are storing in DataBase in Base64 format and we are showing that image on frontend after converting that image from Base64 to image. 
+I'm uploading an image which are storing in DataBase in Base64 format and we are showing that image on frontend from that Base64 image. 
