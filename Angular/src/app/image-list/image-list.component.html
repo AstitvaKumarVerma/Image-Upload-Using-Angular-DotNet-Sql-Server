@@ -1,0 +1,32 @@
+<div class="uploadImage">
+  <button mat-raised-button color="primary" routerLink="Upload-Image"> Upload Image</button>
+</div>
+
+<div class="image-table">
+  <table>
+
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Image Location</th>
+        <th style="text-align: center;">View Image</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let image of images">
+        <td>{{ image.id }}</td>
+        <td>{{ image.imageLocation }}</td>
+
+        <td>
+          <button mat-fab extended color="primary" (click)="openImageDialog(image.id)">
+            <mat-icon>visibility</mat-icon>
+            View
+          </button>
+        </td>
+        
+      </tr>
+    </tbody>
+
+  </table>
+</div>

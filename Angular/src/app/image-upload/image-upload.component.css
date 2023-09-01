@@ -1,0 +1,34 @@
+/* Add your custom styling here if needed */
+
+/* .Upload-Container{
+  margin-top: 50%;
+} */
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0% 10% 0%;      /* Top | Left & Right | Bottom */
+    padding: 5px 0px 5px;   /* Top | Left & Right | Bottom */
+    border: 2px dotted rgb(255, 0, 0);
+
+    background-color: #fbff00;
+    /* margin: 20px; */
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+    padding: 0px 0px 2px 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
