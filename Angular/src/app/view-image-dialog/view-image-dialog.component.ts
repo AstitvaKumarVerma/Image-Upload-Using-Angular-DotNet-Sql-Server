@@ -30,7 +30,7 @@ export class ViewImageDialogComponent {
     this.serice.GetImageById(id).subscribe((res: any) => {
       console.log('res: ',res);
 
-      console.log("Img In Base64String: ", res.image);
+      console.log("Img In Base64String: ", res.image);   // our base^4 image is coming inside res.image
 
       this.img = res.image;
       this.imagePath = this.sanitizer.bypassSecurityTrustResourceUrl('data:image/jpg;base64,'+ this.img);
@@ -39,10 +39,6 @@ export class ViewImageDialogComponent {
       console.error('Error fetching image:', error);
     })
   }
-
-  // getSanitizedImageSrc(): SafeResourceUrl {
-  //   return this.sanitizer.bypassSecurityTrustResourceUrl(this.img);
-  // }
 }
 
  
